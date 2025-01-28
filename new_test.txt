@@ -1,1 +1,1 @@
-first step towards learning  git.
+basic git learning step 1
